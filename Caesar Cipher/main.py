@@ -1,4 +1,5 @@
-from art import logo
+import art
+
 
 print(art.logo)
 
